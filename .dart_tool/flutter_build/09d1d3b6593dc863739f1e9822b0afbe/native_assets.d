@@ -1,0 +1,1 @@
+ /Applications/flutterTutorial/flutter-BMI-Calulator/.dart_tool/flutter_build/09d1d3b6593dc863739f1e9822b0afbe/native_assets.yaml: 
