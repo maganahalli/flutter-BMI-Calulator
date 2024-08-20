@@ -281,3 +281,11 @@ build/ios/iphonesimulator/Runner.app/Info.plist
 build/ios/iphonesimulator/Runner.app/PkgInfo
 build/ios/iphonesimulator/Runner.app/Runner
 build/last_build_run.json
+build/ios/Debug-iphonesimulator/App.framework/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf
+build/ios/Debug-iphonesimulator/App.framework/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf
+build/ios/Debug-iphonesimulator/App.framework/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf
+build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf
+build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf
